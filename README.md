@@ -18,12 +18,13 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <a href = "mailto: cauabernardocs6@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "https://www.linkedin.com/in/cauã-bernardo-13661124a/">
       <img width="25" src="linkedin.svg">
     </a>
     
 </div>
 
+![Snake animation](https://github.com/CbCavalcante/CbCavalcante/blob/output/github-contribution-grid-snake.svg)
