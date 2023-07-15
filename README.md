@@ -26,5 +26,3 @@
     </a>
     
 </div>
-
-![Snake animation](https://github.com/CbCavalcante/CbCavalcante/blob/output/github-contribution-grid-snake.svg)
